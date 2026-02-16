@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jayasurya-2324/Jayasurya-2323/main/ChatGPT%20Image%20Feb%2010%2C%202026%2C%2008_12_38%20PM.png" width="200"/>
+  <img src="ChatGPT Image Feb 10, 2026, 08_12_38 PM.png" width="200"/>
 </p>
 
 ---
