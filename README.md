@@ -23,8 +23,8 @@
 ## 🌐 Social Links
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
-<a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"></a>
+<a href="https://www.linkedin.com/in/jaya-surya-kanchana-data-analystics-web-development/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+<a href="mailto:jayasuryaKanchana301@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"></a>
 <a href="https://github.com/Jayasurya-2324"><img src="https://img.shields.io/badge/GitHub-black?logo=github"></a>
 </p>
 
